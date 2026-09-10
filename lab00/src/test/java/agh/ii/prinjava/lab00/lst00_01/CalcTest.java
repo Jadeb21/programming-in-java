@@ -24,6 +24,6 @@ class CalcTest {
         int a = 1, b = 2;
 
         // then
-         assertEquals(3, Calc.add(a,b));
+        assertEquals(3, Calc.add(a,b));
     }
 }
